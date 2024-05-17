@@ -1,16 +1,15 @@
 # Projet Trip Recommender
 
-L'objectif de l’application est de recommander des destinations de voyage en fonction des préférences et des critères de l'utilisateur, incluant les vols, les hôtels et les thèmes spécifiques.
+L'objectif de l’application est de recommander des destinations avec les détails de voyage (prix vol, hotels) en fonction des préférences et des critères de l'utilisateur.
 
 **Input de l’utilisateur**
 
-- Ville de Départ/Ville de Destination
-- Prix (budget)
+- Ville de Départ
+- Prix (budget) : vol + hotel
 - Date Début/Fin exacte ou choisir les mois
 - Distance :
  - Avec escale, sans escale
  - Heures de transport
-
 - Thèmes
   - Plage, famille, Ski, golf
 
