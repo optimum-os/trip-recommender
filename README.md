@@ -8,8 +8,8 @@ L'objectif de l’application est de recommander des destinations avec les déta
 - Prix (budget) : vol + hotel
 - Date Début/Fin exacte ou choisir les mois
 - Distance :
- - Avec escale, sans escale
- - Heures de transport
+  - Avec escale, sans escale
+  - Heures de transport
 - Thèmes
   - Plage, famille, Ski, golf
 
