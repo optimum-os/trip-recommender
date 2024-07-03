@@ -16,6 +16,12 @@ L'objectif de l’application est de recommander des destinations avec les déta
 ---
 
 - Chercher des dataset existant/Scraping des données.
-   Il faut des données des vols et des hôtels.
+   - [x] Il faut des données des villes, vols et des hôtels.
 
-- Crée un modèle de ML pour prédire les destinations.
+- Algorithmes
+  - Parties ML pour prédire les destinations.
+    - Prédire le coût de séjour en parcourant chaque destination
+      - [x] créer un modèle ML pour prédire le coût de Vol
+      - [x] créer un modèle ML pour prédire le coût d'Hôtel
+  - Sortir les destinations correspondant aux critères de l'utilisateur.
+    - budget, distance, thèmes
